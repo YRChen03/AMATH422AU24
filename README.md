@@ -14,7 +14,7 @@ Folders plan to add
 - **Recreate** the mathematical model from the referenced paper.
 - **Simulate** various mutation scenarios to understand their effects on cancer initiation.
 - **Visualize** the results of the model through graphical plots.
-- **Optimize** optimizing parameter of the model (plan in future)
+- **Optimize** parameters of the model (plan in future)
 
 ### Requirement
 python 3.7+
