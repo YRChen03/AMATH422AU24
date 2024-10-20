@@ -23,4 +23,4 @@ python 3.7+
 Paterson, Chay, Hans Clevers, and Ivana Bozic. “Mathematical Model of Colorectal Cancer Initiation.” Proceedings of the National Academy of Sciences 117, no. 34 (August 25, 2020): 20681–88. https://doi.org/10.1073/pnas.2003771117.
 
 ### Contributors
-Yirui Chen
+Yirui Chen, Zihan Chen
